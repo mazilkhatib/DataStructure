@@ -1,0 +1,19 @@
+C:\Users\Mazil Khatib\Desktop\DS\stack.c: In function 'push':
+C:\Users\Mazil Khatib\Desktop\DS\stack.c:21:3: error: expected ';' before '}' token
+   }
+   ^
+C:\Users\Mazil Khatib\Desktop\DS\stack.c:24:16: error: 'data' undeclared (first use in this function)
+     stack[top]=data;
+                ^
+C:\Users\Mazil Khatib\Desktop\DS\stack.c:24:16: note: each undeclared identifier is reported only once for each function it appears in
+C:\Users\Mazil Khatib\Desktop\DS\stack.c:26:3: error: expected ';' before '}' token
+   }
+   ^
+C:\Users\Mazil Khatib\Desktop\DS\stack.c: In function 'pop':
+C:\Users\Mazil Khatib\Desktop\DS\stack.c:34:35: error: expected expression before ')' token
+     printf("Element detected:\n", );
+                                   ^
+C:\Users\Mazil Khatib\Desktop\DS\stack.c: In function 'main':
+C:\Users\Mazil Khatib\Desktop\DS\stack.c:54:38: error: expected expression before ')' token
+             printf("Wrong Choice\n", );
+                                      ^
